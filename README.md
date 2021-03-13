@@ -7,6 +7,8 @@ exoplanetary system. The initial keplerian orbital elements are calculated
 fitting the light curve, system is propagated with Newton's 2nd law, with no
 perturbations.
 
+Available [here](https://nunorc.github.io/kepler-210-sim/).
+
 ### Acknowledgements
 
 Thank you
